@@ -1,0 +1,17 @@
+/* Connect Four in Ruby */
+
+For spring break 2016, I am learning ruby by making this game
+
+Code will likely start sloppy, but plenty of opportunity for refactoring
+down the road.
+
+At some point I'd like to use some gui with it to move it out of the 
+command line
+
+To-do:
+  - handle errors, like out-of-bound indecies
+  - modularize better, move to other files ideally
+  - display winning message with player number
+  - handle cats games
+  - increase dimensions
+  - consider using a graphics package to make it look good (shoes?)
